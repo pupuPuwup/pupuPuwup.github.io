@@ -88,7 +88,7 @@ body{
 .gambar .img1{
     height: 134px;
     width: 140px;
-    padding-left: 170px;
+    padding-left: 130px;
 }
 .gambar .img2{
     height: 135px;
@@ -121,7 +121,7 @@ body{
 .form {
     width: 500px;
     height: 300px;
-    margin-left: 460px;
+    margin-left: 420px;
     margin-top: 70px; 
 }
 .form input {
@@ -143,12 +143,12 @@ body{
     margin-top: 10px;
     border: none;
     border-radius: 3px;
-    margin-left: 165px;
+    margin-left: 167px;
 }
 .sosmed #logo1 {
     height: 31px;
     width: 30px;
-    margin-left: 637px;
+    margin-left: 598px;
 }
 .sosmed #logo2 {
     height: 22px;
