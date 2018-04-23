@@ -213,9 +213,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro .overlay {
 	padding: 100px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4da8+0,4977c2+100&0.85+0,0.85+100 */
-	background: -moz-linear-gradient(left, rgba(117, 113, 125, 0.70) 0%, rgba(220, 220, 220, 0.70) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(left, rgba(117, 113, 125, 0.70) 0%, rgba(220, 220, 220, 0.70) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, rgba(117, 113, 125, 0.70) 0%, rgba(220, 220, 220, 0.70) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: -moz-linear-gradient(left, rgba(117, 113, 125, 0.5) 0%, rgba(220, 220, 220, 0.5) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, rgba(117, 113, 125, 0.5) 0%, rgba(220, 220, 220, 0.5) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, rgba(117, 113, 125, 0.5) 0%, rgba(220, 220, 220, 0.5) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d96b4da8', endColorstr='#d94977c2', GradientType=1 ); /* IE6-9 */
 }
 .section-title.center {
@@ -482,9 +482,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 #contact .overlay {
 	padding: 100px 0 40px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4da8+0,4977c2+100&0.85+0,0.85+100 */
-	background: -moz-linear-gradient(left, rgba(117,113,125,0.85) 0%, rgba(220, 220, 220,0.85) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(left, rgba(117,113,125,0.85) 0%, rgba(220, 220, 220,0.85) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, rgba(117,113,125,0.85) 0%, rgba(220, 220, 220,0.85) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: -moz-linear-gradient(left, rgba(117,113,125,0.65) 0%, rgba(220, 220, 220,0.65) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, rgba(117,113,125,0.65) 0%, rgba(220, 220, 220,0.65) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, rgba(117,113,125,0.65) 0%, rgba(220, 220, 220,0.65) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d96b4da8', endColorstr='#d94977c2', GradientType=1 ); /* IE6-9 */
 }
 #contact h2 {
